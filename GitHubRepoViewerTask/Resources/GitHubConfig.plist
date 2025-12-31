@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>Ov23liPjPyhrksM3sPVw</string>
+	<key>CLIENT_SECRET</key>
+	<string>e3c680a6fc109d05c2f02d5a599c65e899e69de9</string>
+	<key>CALLBACK_URL_SCHEME</key>
+	<string>githubrepoviewer</string>
+	<key>SCOPES</key>
+	<array>
+		<string>repo</string>
+		<string>user</string>
+	</array>
+</dict>
+</plist>
